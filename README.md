@@ -1,4 +1,4 @@
-# InnoGov+
+# INNOGOV
 
 ## Overview
 InnoGov+ is a web-based e-government platform designed to digitalize administrative services in Tunisia and help public institutions better organize their activities.
@@ -77,5 +77,5 @@ Academic Year: **2025–2026**
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/InnoGov.git
-cd InnoGov
+git clone https://github.com/your-username/INNOGOV.git
+cd INNOGOV
